@@ -24,6 +24,23 @@
 
 ### Projets & Réalisations
 
+<div align="center">
+  <a href="https://github.com/TomPlle/Asterina">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_DU_DEPOT_1&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Projet 1" />
+  </a>
+  <a href="https://github.com/TomPlle/SAE-203">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_DU_DEPOT_2&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Projet 2" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/TomPlle/SAE105">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_DU_DEPOT_3&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Projet 3" />
+  </a>
+  <a href="https://github.com/TomPlle/NOM_DU_DEPOT_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_DU_DEPOT_4&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Projet 4" />
+  </a>
+</div>
 Voici une sélection de mes dépôts phares :
 
 <div align="center">
