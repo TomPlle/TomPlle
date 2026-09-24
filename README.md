@@ -27,33 +27,33 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TomPlle/Asterina-Meaux" target="_blank">Asterina</a></h4>
-      <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
+      <h4><a href="https://github.com/TomPlle/IUT-Pilot" target="_blank">IUT Pilot</a></h4>
+      <p>IUT-Pilot est une application mobile Android tout-en-un développée avec React Native et Expo, couplée à un backend Node.js, qui centralise l'emploi du temps ADE en temps réel avec notifications de changement de cours, la messagerie universitaire avec connexion automatique et l'accès complet aux services numériques de l'IUT.</p>
       <p>
-        <b>Tech :</b> <code>HTML5</code> <code>CSS3</code> <code>JAVASCRIPT</code>
+        <b>Tech :</b> <code>REACT NATIVE</code> <code>EXPO</code> <code>JAVASCRIPT</code> <code>NODE.JS</code> <code>EAS BUILD</code> <code>RENDER.COM</code>
       </p>
     </td>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/TomPlle/Asterina-Meaux" target="_blank">Asterina</a></h4>
+      <p>Refonte du site de Astérina Meaux (Club de Plongée)</p>
+      <p>
+        <b>Tech :</b> <code>HTML5</code> <code>CSS3</code> <code>JAVASCRIPT</code>
+      </p>
+    </tr>
+  <tr>
+    </td>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/TomPlle/SAE-203" target="_blank">SAE 203</a></h4>
-      <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
+      <p>Site Web de gestion de stage dans le cadre d'une SAE (Situation d'Apprentissage et d'Evaluation)</p>
       <p>
         <b>Tech :</b> <code>PHP</code> <code>HTML5</code> <code>CSS3</code> <code>SQL</code> <code>JAVASCRIPT</code>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/TomPlle/SAE105" target="_blank">SAE 105</a></h4>
-      <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
+      <p>Premier site web dans le cadre d'une SAE (Situation d'Apprentissage et d'Evaluation)</p>
       <p>
         <b>Tech :</b> <code>HTML5</code> <code>CSS3</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/TomPlle/IUT-Pilot" target="_blank">IUT Pilot</a></h4>
-      <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
-      <p>
-        <b>Tech :</b> <code>REACT NATIVE</code> <code>EXPO</code> <code>JAVASCRIPT</code> <code>NODE.JS</code> <code>EAS BUILD</code> <code>RENDER.COM</code>
       </p>
     </td>
   </tr>
