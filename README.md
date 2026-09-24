@@ -23,24 +23,42 @@
 ---
 
 ### Projets & Réalisations
+### 🚀 Projets & Réalisations
 
-<div align="center">
-  <a href="https://github.com/TomPlle/Asterina">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_DU_DEPOT_1&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Projet 1" />
-  </a>
-  <a href="https://github.com/TomPlle/SAE-203">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_DU_DEPOT_2&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Projet 2" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/TomPlle/SAE105">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_DU_DEPOT_3&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Projet 3" />
-  </a>
-  <a href="https://github.com/TomPlle/NOM_DU_DEPOT_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_DU_DEPOT_4&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Projet 4" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/TON_PSEUDO/projet-1">📦 projet-1</a></h4>
+      <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
+      <p>
+        <b>Tech :</b> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/TON_PSEUDO/projet-2">⚡ projet-2</a></h4>
+      <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
+      <p>
+        <b>Tech :</b> <code>Go</code> <code>Docker</code> <code>Redis</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/TON_PSEUDO/projet-3">🛠️ projet-3</a></h4>
+      <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
+      <p>
+        <b>Tech :</b> <code>Python</code> <code>FastAPI</code> <code>Docker</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/TON_PSEUDO/projet-4">📱 projet-4</a></h4>
+      <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
+      <p>
+        <b>Tech :</b> <code>React</code> <code>TailwindCSS</code> <code>Vite</code>
+      </p>
+    </td>
+  </tr>
+</table>
 Voici une sélection de mes dépôts phares :
 
 <div align="center">
