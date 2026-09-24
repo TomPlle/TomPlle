@@ -64,5 +64,5 @@
 ### Boîte à outils
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,docker,git,linux&perline=7" alt="Compétences" />
+  <img src="https://skillicons.dev/icons?i=js,html,php,css,react,git,bootstrap,mysql&perline=7" alt="Compétences" />
 </div>
