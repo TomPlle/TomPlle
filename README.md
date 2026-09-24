@@ -7,23 +7,15 @@
 
   <br><br>
 
-  <!-- Photo de profil en code (SVG animé stocké dans ton dépôt) -->
-  <img src="./assets/avatar-code.svg" width="220" alt="Avatar Code Rain" />
-
-  <br><br>
-
   <!-- Liens réseaux professionnels -->
-  <a href="https://linkedin.com/in/TON_PSEUDO" target="_blank">
+  <a href="https://www.linkedin.com/in/tom-pelloile-548193357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://TON-PORTFOLIO.fr" target="_blank">
+  <a href="https://TON-PORTFOLIO.fr" target="_blank">SOON
     <img src="https://img.shields.io/badge/Site_Web-22272e?style=for-the-badge&logo=firefox&logoColor=00FF9C" alt="Portfolio" />
   </a>
-  <a href="mailto:ton.email@domaine.com">
+  <a href="mailto:tompelloile6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/TON_PSEUDO" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 
 </div>
@@ -35,15 +27,15 @@
 Voici une sélection de mes dépôts phares :
 
 <div align="center">
-  <a href="https://github.com/TON_PSEUDO/depot-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=depot-1&theme=tokyonight&border_color=00FF9C" alt="Projet 1" />
+  <a href="https://github.com/TomPlle/Asterina">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomPlle&repo=depot-1&theme=tokyonight&border_color=00FF9C" alt="Projet 1" />
   </a>
-  <a href="https://github.com/TON_PSEUDO/depot-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=depot-2&theme=tokyonight&border_color=00FF9C" alt="Projet 2" />
+  <a href="https://github.com/TomPlle/SAE-203">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomPlle&repo=depot-2&theme=tokyonight&border_color=00FF9C" alt="Projet 2" />
   </a>
   <br>
-  <a href="https://github.com/TON_PSEUDO/depot-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=depot-3&theme=tokyonight&border_color=00FF9C" alt="Projet 3" />
+  <a href="https://github.com/TomPlle/SAE105">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomPlle&repo=depot-3&theme=tokyonight&border_color=00FF9C" alt="Projet 3" />
   </a>
   <a href="https://github.com/TON_PSEUDO/depot-4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=depot-4&theme=tokyonight&border_color=00FF9C" alt="Projet 4" />
