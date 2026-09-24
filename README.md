@@ -50,31 +50,14 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TON_PSEUDO/projet-4">📱 projet-4</a></h4>
+      <h4><a href="https://github.com/TomPlle/IUT-Pilot">IUT Pilot</a></h4>
       <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
       <p>
-        <b>Tech :</b> <code>React</code> <code>TailwindCSS</code> <code>Vite</code>
+        <b>Tech :</b> <code>REACT NATIVE</code> <code>EXPO</code> <code>JAVASCRIPT</code> <code>NODE.JS</code> <code>EAS BUILD</code> <code>RENDER.COM</code>
       </p>
     </td>
   </tr>
 </table>
-Voici une sélection de mes dépôts phares :
-
-<div align="center">
-  <a href="https://github.com/TomPlle/Asterina">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomPlle&repo=depot-1&theme=tokyonight&border_color=00FF9C" alt="Projet 1" />
-  </a>
-  <a href="https://github.com/TomPlle/SAE-203">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomPlle&repo=depot-2&theme=tokyonight&border_color=00FF9C" alt="Projet 2" />
-  </a>
-  <br>
-  <a href="https://github.com/TomPlle/SAE105">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomPlle&repo=depot-3&theme=tokyonight&border_color=00FF9C" alt="Projet 3" />
-  </a>
-  <a href="https://github.com/TON_PSEUDO/depot-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=depot-4&theme=tokyonight&border_color=00FF9C" alt="Projet 4" />
-  </a>
-</div>
 
 ---
 
