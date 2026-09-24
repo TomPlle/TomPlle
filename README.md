@@ -27,14 +27,14 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TomPlle/Asterina">Asterina</a></h4>
+      <h4><a href="https://github.com/TomPlle/Asterina-Meaux" target="_blank">Asterina</a></h4>
       <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
       <p>
         <b>Tech :</b> <code>HTML5</code> <code>CSS3</code> <code>JAVASCRIPT</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TomPlle/SAE-203">SAE 203</a></h4>
+      <h4><a href="https://github.com/TomPlle/SAE-203" target="_blank">SAE 203</a></h4>
       <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
       <p>
         <b>Tech :</b> <code>PHP</code> <code>HTML5</code> <code>CSS3</code> <code>SQL</code> <code>JAVASCRIPT</code>
@@ -43,14 +43,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TomPlle/SAE105">SAE 105</a></h4>
+      <h4><a href="https://github.com/TomPlle/SAE105" target="_blank">SAE 105</a></h4>
       <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
       <p>
         <b>Tech :</b> <code>HTML5</code> <code>CSS3</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TomPlle/IUT-Pilot">IUT Pilot</a></h4>
+      <h4><a href="https://github.com/TomPlle/IUT-Pilot" target="_blank">IUT Pilot</a></h4>
       <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
       <p>
         <b>Tech :</b> <code>REACT NATIVE</code> <code>EXPO</code> <code>JAVASCRIPT</code> <code>NODE.JS</code> <code>EAS BUILD</code> <code>RENDER.COM</code>
