@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tom-pelloile-548193357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://TON-PORTFOLIO.fr" target="_blank">SOON
+  <a href="https://TON-PORTFOLIO.fr" target="_blank">
     <img src="https://img.shields.io/badge/Site_Web-22272e?style=for-the-badge&logo=firefox&logoColor=00FF9C" alt="Portfolio" />
   </a>
   <a href="mailto:tompelloile6@gmail.com">
@@ -23,12 +23,11 @@
 ---
 
 ### Projets & Réalisations
-### 🚀 Projets & Réalisations
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/TON_PSEUDO/projet-1">📦 projet-1</a></h4>
+      <h4><a href="https://github.com/TON_PSEUDO/projet-1">Asterina</a></h4>
       <p>Description concise de ce que fait ton projet, son rôle et son objectif principal.</p>
       <p>
         <b>Tech :</b> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code>
