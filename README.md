@@ -44,14 +44,14 @@
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/TomPlle/SAE-203" target="_blank">SAE 203</a></h4>
-      <p>Site Web de gestion de stage dans le cadre d'une SAE (Situation d'Apprentissage et d'Evaluation)</p>
+      <p>Site Web de gestion de stage dans le cadre d'une SAE (Situation d'Apprentissage et d'Evaluation) du 2eme semestre</p>
       <p>
         <b>Tech :</b> <code>PHP</code> <code>HTML5</code> <code>CSS3</code> <code>SQL</code> <code>JAVASCRIPT</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/TomPlle/SAE105" target="_blank">SAE 105</a></h4>
-      <p>Premier site web dans le cadre d'une SAE (Situation d'Apprentissage et d'Evaluation)</p>
+      <p>Premier site web dans le cadre d'une SAE (Situation d'Apprentissage et d'Evaluation) du 1er semestre</p>
       <p>
         <b>Tech :</b> <code>HTML5</code> <code>CSS3</code>
       </p>
