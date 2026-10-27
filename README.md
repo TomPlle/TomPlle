@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tom-pelloile-548193357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://TON-PORTFOLIO.fr" target="_blank">
+  <a href="https://tom-pelloile.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Site_Web-22272e?style=for-the-badge&logo=firefox&logoColor=00FF9C" alt="Portfolio" />
   </a>
   <a href="mailto:tompelloile6@gmail.com">
